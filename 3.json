@@ -1,7 +1,7 @@
 {
-  "name": "Sword",
+  "name": "SWORD",
   "image": "ipfs://QmSEqsc95tCDYe14wxVMt1KQHNukBhjfMCbkX5UmmuVw5P/3.png",
-  "description": "This NFT collection is created by ABCLabs, edited by Black Cat",
+  "description": "This NFT collection is created by ABCLabs",
   "attributes": [
     {
       "trait_type": "Name",
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "creator",
-      "value": "Black Cat"
+      "value": "TA Cupid"
     }
   ]
 }
