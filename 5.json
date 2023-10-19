@@ -1,0 +1,15 @@
+{
+  "name": "Black Cat",
+  "image": "ipfs://QmTxntmAV8N4gHZcxAE75Um44CBcj5BTWNUvzN5siPn8zF/5.png",
+  "description": "This NFT collection is created by Black Cat",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "COSMOS_BLACK_CAT"
+    },
+    {
+      "trait_type": "creator",
+      "value": "Black Cat"
+    }
+  ]
+}
